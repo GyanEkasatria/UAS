@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\POKE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\POKE\\.nuget\\packages"
+    ]
+  }
+}

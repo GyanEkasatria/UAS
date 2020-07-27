@@ -1,0 +1,11 @@
+E:\Pemograman\Rental\Rental\bin\Debug\netcoreapp3.1\Rental.exe
+E:\Pemograman\Rental\Rental\bin\Debug\netcoreapp3.1\Rental.deps.json
+E:\Pemograman\Rental\Rental\bin\Debug\netcoreapp3.1\Rental.runtimeconfig.json
+E:\Pemograman\Rental\Rental\bin\Debug\netcoreapp3.1\Rental.runtimeconfig.dev.json
+E:\Pemograman\Rental\Rental\bin\Debug\netcoreapp3.1\Rental.dll
+E:\Pemograman\Rental\Rental\bin\Debug\netcoreapp3.1\Rental.pdb
+E:\Pemograman\Rental\Rental\obj\Debug\netcoreapp3.1\Rental.csprojAssemblyReference.cache
+E:\Pemograman\Rental\Rental\obj\Debug\netcoreapp3.1\Rental.AssemblyInfoInputs.cache
+E:\Pemograman\Rental\Rental\obj\Debug\netcoreapp3.1\Rental.AssemblyInfo.cs
+E:\Pemograman\Rental\Rental\obj\Debug\netcoreapp3.1\Rental.dll
+E:\Pemograman\Rental\Rental\obj\Debug\netcoreapp3.1\Rental.pdb
